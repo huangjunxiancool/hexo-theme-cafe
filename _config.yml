@@ -23,7 +23,7 @@ social:
   email: 'huangjunxiancool@foxmail.com'
 
 # WeChat 微信公众号二维码url
-wechat_url: https://huangjunxiancool.github.io/blog/images/qrcode_swordshake.jpg ## 启用wechat widget才会生效
+wechat_url: /images/qrcode_swordshake.jpg ## 启用wechat widget才会生效
 
 
 # Friendly links 友情链接
